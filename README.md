@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Rohit 👋
 
-<!--
-**ds-rohit01/ds-rohit01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Data Analytics Enthusiast 📊
 
-Here are some ideas to get you started:
+I'm passionate about turning data into meaningful insights and building data-driven projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+
+- Python
+- SQL
+- Advanced Excel
+- Power BI
+- Tableau
+- Pandas & NumPy
+- Matplotlib
+- MongoDB
+- AI/ML
+
+---
+
+### 📌 Featured Projects
+
+🏥 **Hospital Analytics Dashboard**  
+Interactive dashboard built with Power BI for hospital data analysis and visualization.
+
+🐍 **Hospital Data Science App**  
+Python-based application for analyzing hospital data and generating insights.
+
+---
+
+### 📚 What I'm Learning
+
+- Data Science & Machine Learning
+- Python for Data Analysis
+- SQL & Database Management
+- Data Visualization with Power BI & Tableau
+- Statistics for Data Science
+- Building real-world data projects
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/rohit-kumar-40297441b/
+- GitHub: https://github.com/ds-rohit01
+
+---
+
+⭐ Thanks for visiting my profile!
